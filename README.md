@@ -3,12 +3,3 @@ Repo for peekboard a small desk display, showing some infos about this and that
 
 
 
-
-Item,Qty,Supplier,Cost/item,Total Cost,link
-"4"" st7796 SPI TFT 480x320",1,EQV Official Store,$20.93,$20.93,https://de.aliexpress.com/item/1005007609041421.html?spm=a2g0o.cart.0.0.502038dawLfZEM&mp=1&gatewayAdapt=glo2deu
-USBLC6-2SC6,1,Shop Hui Li Long Store,$1.72,$1.72,https://de.aliexpress.com/item/1005007348100430.html?spm=a2g0o.cart.0.0.502038dawLfZEM&mp=1&gatewayAdapt=glo2deu
-AP1221K-3.3 TRG1,1,IC chip Store,$2.36,$2.36,https://de.aliexpress.com/item/1005005807114594.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu
-AO3401A,1,Supermarket of electronic,$2.09,$2.09,https://de.aliexpress.com/item/1005006220143887.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu
-Alps EC11E155244G1,1,DQLZV Official Store,$1.27,$1.27,https://de.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu
-1206 PTC self recovery fuse 0.75A,1,IBUW Electronic Store,$1.93,$1.93,https://de.aliexpress.com/item/1005005750933997.html?spm=a2g0o.productlist.main.10.527831207MNm9n&algo_pvid=99e0a0bc-e0b1-4b7d-8c2a-6bfe058d935e&pdp_ext_f=%7B%22order%22%3A%22240%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005750933997%7C_p_origin_prod%3A
-Estimated total shipping,1,,,$0.00,
