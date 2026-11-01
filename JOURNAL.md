@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 8.68h | 3 |
+| Week 4 | Tier 1 | 9.18h | 3 |
 
 ## Contents
 
@@ -136,6 +136,12 @@ Redfish (MR holy Yapper)
 
 ### 2026-11-01: Work session
 
-**1.18h**
+**1.68h**
+
+Work session
+
++
+
+some basic schematic drawings and KICAD preparations, as well as some checks before starting the Timelapse work session.
 
 [Timelapse](https://lookout.hackclub.com/api/media/5683e63e-9e76-4aba-9f72-1230cb08083d/video.mp4)
