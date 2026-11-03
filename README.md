@@ -41,7 +41,7 @@ The assembly should be quite beginnerfriendly. All components can be handsoldere
 
 # Schematic and components
 
-![Lunarbie](Images/schematic.png)
+![Lunarbie](images/schematic.png)
 The board is powered by the ESP32-S3-WROOM-1-N16R8. It provides some power and data for flashing and firmware. The board also features another USB-C receptacle for main power of the TFT screen. This display is a 4" st7796 SPI TFT 480x320 screen, that is fairly big for its price. For navigation, setup and use, there are several buttons and rotary encoders.
 If you want to see the schematic in more detail, have a look into the images folder!
 
