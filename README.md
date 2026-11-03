@@ -3,7 +3,7 @@ Repo for peekboard a small desk display, showing some infos about this and that
 
 # peekboard
 
-![Peekboard](images/render_front.PNG)
+![Peekboard](images/render_front.png)
 This is a practical and useful table display. Its meant to create a info dashboard to display all sorts of stuff. It could show your notifications and files or simply the time and date. 
 This project is WOP so expect changes and updates in future!
 
@@ -35,22 +35,22 @@ Via the [Half life](https://halflife.hackclub.com) by Hackclub programm, several
 
 # Assembly
 
-![Lunarbie](images/render_front.PNG)
-![Lunarbie](images/render_back.PNG)
+![Lunarbie](images/render_front.png)
+![Lunarbie](images/render_back.png)
 The assembly should be quite beginnerfriendly. All components can be handsoldered onto a PCB that can be ordered by a manufacturer like [JLPCB](https://jlcpcb.com/). Maybe a video tutorial will be added later (if the repo is seen, but prob. not). 
 
 # Schematic and components
 
-![Lunarbie](Images/Schematic.PNG)
+![Lunarbie](Images/Schematic.png)
 The board is powered by the ESP32-S3-WROOM-1-N16R8. It provides some power and data for flashing and firmware. The board also features another USB-C receptacle for main power of the TFT screen. This display is a 4" st7796 SPI TFT 480x320 screen, that is fairly big for its price. For navigation, setup and use, there are several buttons and rotary encoders.
 
 # PCB
 
-![Lunarbie](images/pcb.PNG)
+![Lunarbie](images/pcb.png)
 The PCB is a simple 2 layer PCB with another silkscreen layer for cosmetic and organisational purposes. The board also has a standart GND pour and features routing on the front and backside.
 
 closeup
-![Lunarbie](images/pcb_detail.PNG)
+![Lunarbie](images/pcb_detail.png)
 
 # Firmware
 
