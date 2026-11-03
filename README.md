@@ -66,14 +66,14 @@ PEEKBOARD – bill of materials
 				
 | Part | Qty | Unit-Price | total | Shop | Link |
 | --- | --- | --- | --- | --- | --- |
-| XIAO ESP32 C3 | 1 | $11.33 | $11.33 | AliExpress | [Link](https://www.aliexpress.com/item/1005007084388623.html) |
-| 0.96" OLED | 1 | $2.57 | $2.57 | AliExpress | [Link](https://www.aliexpress.com/item/1005009170035050.html) |
-| MPU6050 | 1 | $3.61 | $3.61 | AliExpress | [Link](https://www.aliexpress.com/item/32869974009.html) |
-| DHT11 | 1 | $1.50 | $1.50 | AliExpress | [Link](https://www.aliexpress.com/item/1005008818897051.html) |
-| MX Switches | 1 | $4.27 | $4.27 | AliExpress | [Link](https://www.aliexpress.com/item/1005006161274872.html) |
-| Keycaps | 2 | $1.80 | $3.60 | AliExpress | [Link](https://www.aliexpress.com/item/1005007482124353.html) |
-| 10k Resistor | 1 | $2.05 | $2.05 | AliExpress | [Link](https://www.aliexpress.com/item/1005004698981340.html) |
-| (PCB manufacturing) | 5 | $4 | $4 | JLPCB | [Link](https://cart.jlcpcb.com/de/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
-| **Total** | **$28.93** | | Shipping: free | (Shipping for PCB: $8.78) | |
+| 4" st7796 SPI TFT 480x320 | 1 | $20.93 | $20.93 | AliExpress | [Link](https://de.aliexpress.com/item/1005007609041421.html?spm=a2g0o.cart.0.0.502038dawLfZEM&mp=1&gatewayAdapt=glo2deu) |
+| USBLC6-2SC6 | 1 | $1.72 | $1.72 | AliExpress | [Link](https://de.aliexpress.com/item/1005007348100430.html?spm=a2g0o.cart.0.0.502038dawLfZEM&mp=1&gatewayAdapt=glo2deu) |
+| AP1221K-3.3 TRG1 | 1 | $2.36 | $2.36 | AliExpress | [Link](https://de.aliexpress.com/item/1005005807114594.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu) |
+| AO3401A | 1 | $2.09 | $2.09 | AliExpress | [Link]([https://www.aliexpress.com/item/1005008818897051.html](https://de.aliexpress.com/item/1005006220143887.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu)) |
+| Alps EC11E155244G1 | 1 | $1.27 | $1.27 | AliExpress | [Link](https://de.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.502038daN9aA73&mp=1&gatewayAdapt=glo2deu) |
+| 1206 PTC self recovery fuse 0.75A | 1 | $1.93 | $1.93 | AliExpress | [Link]([https://www.aliexpress.com/item/1005007482124353.html](https://de.aliexpress.com/item/1005005750933997.html?spm=a2g0o.productlist.main.10.527831207MNm9n&algo_pvid=99e0a0bc-e0b1-4b7d-8c2a-6bfe058d935e&pdp_ext_f=%7B%22order%22%3A%22240%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005750933997%7C_p_origin_prod%3A)) |
+| (PCB manufacturing) | 5 | $8.6 | $8.6 | JLPCB | [Link](https://cart.jlcpcb.com/de/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
+| **Total** | **$28.93** | | Shipping: free | (Shipping for PCB: $8.99) | |
+
 
 
