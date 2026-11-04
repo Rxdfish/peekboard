@@ -56,6 +56,7 @@ closeup
 # Firmware
 
 There is no official firmware yet but there is some test software inside the repo and the basic firmware for the screen. More will follow soon.
+
 **!Short disclaimer for half life!**
 
 There is no finished .ino or .py file in the repo but there are some test script in other formats for the screen. The actual finished firmware will be created in the build week.
