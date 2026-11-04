@@ -56,6 +56,8 @@ closeup
 # Firmware
 
 There is no official firmware yet but there is some test software inside the repo and the basic firmware for the screen. More will follow soon.
+!Short disclaimer for half life!
+There is no finished .ino or .py file in the repo but there are some test script in other formats for the screen. The actual finished firmware will be created in the build week.
 
 # BOM
 There are two BOM files inside the repo. One is the entire parts list with all passives and main components. Its stored in BOM2. The other is the list below or saved in [BOM.csv](BOM.csv). THis is the funded parts list for the YSWS program by hackclub. If you build the project, you will need BOM2. 
